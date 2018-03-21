@@ -6,13 +6,11 @@ public class AreaOfCircle extends Arithmetic_Operations {
 		return Math.PI * radius * radius;
 
 	}
-	
-	public static double perimeter(double radius)
-	{
-		return 2*Math.PI*radius;
-		
-	}
 
+	public static double perimeter(double radius) {
+		return 2 * Math.PI * radius;
+
+	}
 
 	public static void main(String[] args) {
 		double radius;
