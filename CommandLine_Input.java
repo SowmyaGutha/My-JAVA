@@ -15,6 +15,7 @@ public class CommandLine_Input {
 		System.out.println("Enter your Address : ");
 		String address = scanner.nextLine(); // Not able to display full address with the help of next and nextline ,  need to ask for solution
 		System.out.println("your address is : " + address); 
+		System.out.println("Bye");
 
 	}
 
